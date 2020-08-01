@@ -1,0 +1,21 @@
+{
+  "name": "shadows-over-saltmarsh",
+  "title": "Shadows Over Saltmarsh",
+  "description": "Homebrew rules for our Shadows Over Saltmarsh Game",
+  "systems": ["dnd5e"],
+  "version": "0.0.1",
+  "author": "Matthew Butler",
+  "esmodules": [
+    "xp.js"
+  ],
+  "minimumCoreVersion": "0.6.2",
+  "compatibleCoreVersion": "0.6.2",
+	"url": "https://github.com/mbutler/shadows-over-saltmarsh",
+	"manifest": "https://github.com/mbutler/shadows-over-saltmarsh/master/module.json",
+	"download": "https://github.com/mbutler/shadows-over-saltmarsh/archive/0.0.1.zip",
+	"license": "https://github.com/mbutler/shadows-over-saltmarsh/blob/0.0.1/LICENSE",
+	"readme": "https://github.com/mbutler/shadows-over-saltmarsh/blob/0.0.1/README.md",
+	"changelog": "https://github.com/mbutler/shadows-over-saltmarsh/blob/0.0.0/CHANGELOG.md"
+}
+
+ 
