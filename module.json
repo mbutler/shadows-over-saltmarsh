@@ -11,11 +11,11 @@
   "minimumCoreVersion": "0.6.2",
   "compatibleCoreVersion": "0.6.2",
 	"url": "https://github.com/mbutler/shadows-over-saltmarsh",
-	"manifest": "https://github.com/mbutler/shadows-over-saltmarsh/blob/master/module.json",
+	"manifest": "https://raw.githubusercontent.com/mbutler/shadows-over-saltmarsh/master/module.json",
 	"download": "https://github.com/mbutler/shadows-over-saltmarsh/archive/0.0.1.zip",
-	"license": "https://github.com/mbutler/shadows-over-saltmarsh/blob/master/LICENSE",
-	"readme": "https://github.com/mbutler/shadows-over-saltmarsh/blob/master/README.md",
-	"changelog": "https://github.com/mbutler/shadows-over-saltmarsh/blob/master/CHANGELOG.md"
+	"license": "https://raw.githubusercontent.com/mbutler/shadows-over-saltmarsh/master/LICENSE",
+	"readme": "https://raw.githubusercontent.com/mbutler/shadows-over-saltmarsh/master/README.md",
+	"changelog": "https://raw.githubusercontent.com/mbutler/shadows-over-saltmarsh/master/CHANGELOG.md"
 }
 
  
